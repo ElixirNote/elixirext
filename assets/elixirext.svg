@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="744px" height="535px" viewBox="0 0 744 535" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>elixirext</title>
+    <g id="guinsoolab-elixir" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="elixirext" transform="translate(372.000000, 267.500000) rotate(90.000000) translate(-372.000000, -267.500000) translate(105.000000, -104.000000)" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#288ED7" x="149.5" y="43.5" width="93" height="169"></rect>
+            <rect id="Rectangle" fill="#288ED7" x="149.5" y="389.5" width="93" height="169"></rect>
+            <rect id="Rectangle" fill="#FFCA00" x="149" y="261" width="93" height="80"></rect>
+            <rect id="Rectangle" fill="#288ED7" x="-1.13686838e-13" y="183" width="93" height="560"></rect>
+            <rect id="Rectangle" fill="#288ED7" x="295.5" y="529.5" width="93" height="169"></rect>
+            <rect id="Rectangle" fill="#288ED7" x="295.5" y="182.5" width="93" height="169"></rect>
+            <rect id="Rectangle" fill="#E70488" x="296" y="400" width="93" height="80"></rect>
+            <rect id="Rectangle" fill="#288ED7" x="441" y="3.39839487e-15" width="93" height="560"></rect>
+        </g>
+    </g>
+</svg>
