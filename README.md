@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/ElixirNote/elixirnote/main/docs/assets/guinsoolab-badge.png" width=60 alt="badge">
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ElixirNote/elixirext/main/assets/pandas/assets/elixirext.svg" width=100 alt="logo" />
+    <img src="https://raw.githubusercontent.com/ElixirNote/elixirext/main/assets/elixirext.svg" width=100 alt="logo" />
     <br />
     <small>Powerful Python Data Analysis Toolkit</small>
 </div>
